@@ -52,9 +52,9 @@ I'm a computer science student with a passion for solving problems and turning i
 <sub>I've previously used these platforms to strengthen my problem-solving skills:</sub>
 
 <p align="left">
-  <a href="https://www.codechef.com/users/zhuseyn"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/zulfuqarovhusey1"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
   <a href="https://basecamp.eolymp.com/en/users/Huseynzulfuqarov"><img src="https://img.shields.io/badge/E--Olymp-4169E1?style=flat&logo=E&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/zulfuqarovhusey1"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/zhuseyn"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white"/></a>
 </p>
 
 ---
