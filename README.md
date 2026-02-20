@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a computer science student with a passion for solving problems and turning ideas into working code. I enjoy exploring new technologies, building projects, and constantly learning to become a better developer, especially in the **backend world.**
+I'm a computer engineering student with a passion for solving problems and turning ideas into working code. I enjoy exploring new technologies, building projects, and constantly learning to become a better developer, especially in the **backend world.**
 
 - 🚀 Currently learning: **Java, Spring Framework & Data Structures**
 - 💭 Ask me about: **Java, C++, C#, object-oriented design, and coding logic**
